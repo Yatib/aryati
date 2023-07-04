@@ -7,6 +7,8 @@
 
 I am  __Aryati__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
+<!--komen-->
+<!--
 ## 📚 Courses
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
   -   [Django](https://github.com/drshahizan/learn-django)
@@ -42,7 +44,7 @@ I am  __Aryati__, and I work as a lecturer at [Universiti Teknologi Malaysia](ht
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
   
-
+-->
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="left">
